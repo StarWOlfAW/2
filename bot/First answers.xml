@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--lastchange: 03.04.2024 17:53:53-->
+<!--created with: GaitoBot Editor V0.12b--><category id="HF8PX7">
+	<pattern>TARGET BOTSTART</pattern>
+	<template>Приветствую. Могу ответить на вопросы по футболу.</template>
+</category><category id="MMW9M4">
+	<pattern>*</pattern>
+	<template>Извините, не могу ответить</template>
+</category><category id="QEFSF5">
+	<pattern>Как дела?</pattern>
+	<template>Хорошо. А как ваши?</template>
+</category><category id="8WD6GP">
+	<pattern>Что делает вратарь?</pattern>
+	<template>Защищает ворота от мяча.</template>
+</category><topic name="noname" /><category id="B9BCKL">
+	<pattern>Что делает нападающий?</pattern>
+	<template>Бежит с мячом впереди всех.</template>
+</category><category id="GMBN7G">
+	<pattern>Что делает бомбардир?</pattern>
+	<template>Бомбардир забивает в ворота мяч.</template>
+</category><category id="58GEFJ">
+	<pattern>Тебе нравится футбол?</pattern>
+	<template>Конечно</template>
+</category><category id="FE8N7Y">
+	<pattern>Какая команда играет от Воронежа?</pattern>
+	<template>Факел</template>
+</category><category id="PLPGCP">
+	<pattern>Какая команда лучшая?</pattern>
+	<template>(ﾉ´･ω･)ﾉ ﾐ ┸━┸</template>
+</category><category id="JDAGQP">
+	<pattern>Какая сегодня погода?</pattern>
+	<template>┐(￣ヘ￣)┌ </template>
+</category>
+</aiml>
