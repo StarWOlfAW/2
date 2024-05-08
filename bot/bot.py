@@ -1,5 +1,5 @@
-import telebot;
-bot = telebot.TeleBot('7099171935:AAFzM9yMXxu84v4FpUrkwLYBYef3fIRjiF(4)')
+import telebot
+bot = telebot.TeleBot('')
 first = 'Ключкответуы'
 second = 'sыыы'
 result = 0
